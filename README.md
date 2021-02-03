@@ -1,6 +1,6 @@
 
 # Proxy Port SDK
-Proxyport is a Python package that provides interfaces to the [Proxy Port](https://proxy-port.com) API.
+Proxyport Python package provides interfaces to the [Proxy Port](https://proxy-port.com) API.
 ## Installation
 Install via [pip](https://pip.pypa.io/):
 ```shell
